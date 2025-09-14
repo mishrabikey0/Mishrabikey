@@ -10,7 +10,7 @@ from github import Github, InputGitTreeElement, Auth
 
 TELEGRAM_TOKEN = '7762752327:AAHZsevXgs0lN-bzz8ThVDTZJ1KKUvlcMHw'
 
-ADMIN_IDS = {jo}
+ADMIN_IDS = {1263413072}
 DATA_FILE = 'soul.json'
 
 user_sessions = {}
