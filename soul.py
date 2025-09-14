@@ -8,7 +8,7 @@ from telegram.constants import ChatAction
 from telegram.ext import Application, CommandHandler, ContextTypes
 from github import Github, InputGitTreeElement, Auth
 
-TELEGRAM_TOKEN = '7607442646'
+TELEGRAM_TOKEN = '7762752327:AAHZsevXgs0lN-bzz8ThVDTZJ1KKUvlcMHw'
 
 ADMIN_IDS = {jo}
 DATA_FILE = 'soul.json'
